@@ -14,7 +14,7 @@ function generateScore() {
 			lover2 +
 			" is " +
 			score +
-			"%! TRUE LOVE! A perfect match! Expect an easy and blissful life together.";
+			"%! TRUE LOVE! A perfect match! Expect an easy & blissful life together.";
 	} else if (score >= 75) {
 		loverScore =
 			"The Love score for " +
@@ -41,7 +41,7 @@ function generateScore() {
 			lover2 +
 			" is " +
 			score +
-			"%! Save yourself time and energy and end it before it sucks the life out of you!";
+			"%! Save yourself the time & energy! End it before it sucks the life out of you!";
 	} else {
 		loverScore =
 			"The Love score for " +

@@ -1,0 +1,80 @@
+body {
+  background-color: #dddddd;
+  font-family: "Lobster", cursive;
+  margin: auto 0px;
+  text-align: center;
+}
+ h1 {
+  color: #759ea1;
+  font-size: 4.5rem;
+  text-shadow: 2px 4px 3px #dddddd;
+  margin-bottom: 0px;
+}
+p {
+  color: #eae8e8;
+  font-family: "Open Sans", sans-serif;
+  text-shadow: 1px 1px 2px #ad9d9d;
+}
+.top-container {
+  background-color: #d9adad;
+  padding-top: 15px;
+  padding-bottom: 25px;
+  position: relative;
+}
+.bio{
+  font-size: larger;
+}
+.middle-container {
+  background-color: #89c9b8;
+  margin-top: 1rem;
+  height: 240px;
+  position: relative;
+  padding-top: 25px;
+}
+.lover1Div {
+  padding-right: 20px;
+  display: inline-block;
+}
+#lover1 {
+  text-align: center;
+  border-color: #84a9ac;
+  border-style: solid;
+  color: #cf8080;
+  border-radius: 25px;
+}
+.lover2Div {
+
+  padding-left: 20px;
+  display:inline-block;
+} 
+#lover2 {
+  text-align: center;
+  text-decoration-style: solid #84a9ac;
+  border-color: #84a9ac;
+  border-style: solid;
+  color: #cf8080;
+  border-radius: 25px;
+}
+.user{
+margin-bottom: 0px;
+}
+.btnDiv{
+  padding-top: 35px;
+}
+#score{
+  font-size: 1.5rem;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+footer{
+  font-size: small;
+  color:#89c9b8 ;
+  background-color: #89c9b8;
+  color: #eae8e8;
+  height: 25px;
+  padding-bottom: 20px;
+  text-shadow: 1px 1px 2px #84a9ac;
+
+}
+
+

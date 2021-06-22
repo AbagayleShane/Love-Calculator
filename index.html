@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>♥️Love Calculator♥️</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Lobster&family=Open+Sans:wght@300;400&display=swap"
+      rel="stylesheet" />
+  </head>
+
+  <body>
+    <div class="top-container">
+      <h1>The Love Calculator</h1>
+      <p class="bio">
+        Match made in heaven or a match made for hell?
+      </p>
+      <p>Enter two names to find out!</p>
+    </div>
+
+    <div class="middle-container">
+      <div class="lover1Div">
+        <p class="user">Lover One</p>
+        <input id="lover1" type="text" />
+      </div>
+      <div class="lover2Div">
+        <p class="user">Lover Two</p>
+        <input id="lover2" type="text" />
+      </div>
+      <div class="bottom-container">
+        <div class="btnDiv">
+          <button onClick="generateScore()" href="btn">Calculate!</button>
+          <p id="score"></p>
+        </div>
+      </div>
+    </div>
+    <footer>
+      © 2021 Abagayle Shane
+    </footer>
+    <script src="index.js"></script>
+  </body>
+
+</html>

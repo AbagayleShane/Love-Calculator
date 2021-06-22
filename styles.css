@@ -1,5 +1,5 @@
-body {
-  background-color: #dddddd;
+html, body {
+  background-color: #89c9b8;
   font-family: "Lobster", cursive;
   margin: auto 0px;
   text-align: center;
@@ -23,6 +23,10 @@ p {
 }
 .bio{
   font-size: larger;
+}
+.divSeperator{
+  height: 25px;
+  background-color: #dddddd;
 }
 .middle-container {
   background-color: #89c9b8;

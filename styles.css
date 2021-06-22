@@ -17,7 +17,7 @@ p {
 }
 .top-container {
   background-color: #d9adad;
-  padding-top: 15px;
+  padding-top: 30px;
   padding-bottom: 25px;
   position: relative;
 }
@@ -27,9 +27,9 @@ p {
 .middle-container {
   background-color: #89c9b8;
   margin-top: 1rem;
-  height: 240px;
+  height: 250px;
   position: relative;
-  padding-top: 25px;
+  padding-top: 50px;
 }
 .lover1Div {
   padding-right: 20px;
